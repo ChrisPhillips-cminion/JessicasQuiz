@@ -1,0 +1,24 @@
+{
+  "name": "quiz1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jessicaFile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisPhillips-cminion/JessicasQuiz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisPhillips-cminion/JessicasQuiz/issues"
+  },
+  "homepage": "https://github.com/ChrisPhillips-cminion/JessicasQuiz#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "read": "^1.0.7",
+    "sleep": "^5.1.1"
+  }
+}
